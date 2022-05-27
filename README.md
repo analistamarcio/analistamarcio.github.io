@@ -6,8 +6,11 @@ I'm a dynamic technology professional with over 15 years of [experience](https:/
 
 Pokemon:
 
-```Prod - [https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/)
-Code - [https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards)
+```
+- Production
+[https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/)
+- Code
+[https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards)
 ```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
