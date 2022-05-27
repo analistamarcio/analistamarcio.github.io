@@ -1,6 +1,6 @@
 ## Marcio Ferreira's Portfolio
 
-I'm a dynamic technology professional with over 15 years of [experience](https://linkedin.com/in/analistamarcio) dedicated to technical support, migration, maintenance and project management. I love helping people, and I am currently looking to transition my career to web development as the next step.
+I'm a dynamic technology professional with over 15 years of [experience](https://linkedin.com/in/analistamarcio){:target="\_blank"} dedicated to technical support, migration, maintenance and project management. I love helping people, and I am currently looking to transition my career to web development as the next step.
 
 ### Consuming API (React)
 
@@ -8,9 +8,9 @@ Pokemon:
 
 ```
 - Production
-[https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/)
+[https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/){:target="_blank"}
 - Code
-[https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards)
+[https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards){:target="_blank"}
 ```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
