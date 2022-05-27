@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Marcio Ferreira's Portfolio
 
-You can use the [editor on GitHub](https://github.com/analistamarcio/analistamarcio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a dynamic technology professional with over 15 years of [experience](https://linkedin.com/in/analistamarcio) dedicated to technical support, migration, maintenance and project management. I love helping people, and I am currently looking to transition my career to web development as the next step.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Consuming API (React)
 
-### Markdown
+Pokemon:
+
+```Prod - [https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/)
+Code - [https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards)
+```
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -12,7 +16,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
