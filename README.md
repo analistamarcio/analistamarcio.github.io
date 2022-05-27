@@ -6,41 +6,37 @@ I'm a dynamic technology professional with over 15 years of [experience](https:/
 
 Pokemon:
 
-```
 - Production
-[https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/){:target="_blank"}
+  [https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/){:target="\_blank"}
 - Code
-[https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards){:target="_blank"}
-```
+  [https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards){:target="\_blank"}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GamePlay (mobile - React Native, Expo)
 
-```markdown
-Syntax highlighted code block
+- Code
+  [https://github.com/analistamarcio/gameplay](https://github.com/analistamarcio/gameplay){:target="\_blank"}
 
-# Header 1
+### Scratch - Coding language with blocks
 
-## Header 2
+Space Invaders (CS50 Harvard):
 
-### Header 3
+- Production
+  [https://scratch.mit.edu/projects/381805473/fullscreen/](https://scratch.mit.edu/projects/381805473/fullscreen/){:target="\_blank"}
+- Code
+  [https://scratch.mit.edu/projects/381805473/editor/](https://scratch.mit.edu/projects/381805473/editor/){:target="\_blank"}
 
-- Bulleted
-- List
+### HTML and CSS
 
-1. Numbered
-2. List
+W3Schools Space:
 
-**Bold** and _Italic_ and `Code` text
+- Production
+  [https://mferreira.w3spaces.com/](https://mferreira.w3spaces.com/){:target="\_blank"}
 
-[Link](url) and ![Image](src)
-```
+### CRUD, MongoDB, Heroku, Node.js
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Library:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/analistamarcio/analistamarcio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Production
+  [https://locallibrary-cpsc2261.herokuapp.com/](https://locallibrary-cpsc2261.herokuapp.com/){:target="\_blank"}
+- Code
+  [https://github.com/analistamarcio/express-locallibrary-tutorial](https://github.com/analistamarcio/express-locallibrary-tutorial){:target="\_blank"}
