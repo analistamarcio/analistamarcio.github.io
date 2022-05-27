@@ -44,12 +44,12 @@ body {
   transition: all 0.5s ease 0s;
 }
 .navbar a, button{
-  color: white;
+  color: white !important;
 }
 .navbar-custom{
   background-color: #002408;
   transition: all 0.4s ease-in-out;
-  padding: 0px;
+  padding: 0px !important;
 }
 .navbar-fixed-top{
   transition: all 0.4s ease-in-out;
@@ -59,7 +59,7 @@ body {
   .navbar-fixed-top{
     background-color: #002408;
     transition: all 0.4s ease-in-out;
-    padding: 0px;
+    padding: 0px !important;
   }
   .project-image{
     height: auto;
@@ -67,7 +67,7 @@ body {
 }
 button:focus {outline:0;}
 ul.nav a:hover {
-  color: #002408;
+  color: #002408 !important;
   transition: all 0.4s ease-in-out;
 }
 .about-text{
@@ -78,7 +78,15 @@ ul.nav a:hover {
   font-size: 1.5em;
 }
 .no-margin{
-  margin: 0px;
+  margin: 0px !important;
+}
+.icon{
+  color: #002408;
+  border: 2px solid #002408;
+  padding: 0.5em;
+  border-radius: 50%;
+  margin-bottom: black;
+  font-size: 1em;
 }
 .navbar-brand{
   font-family: 'Slabo 27px';
