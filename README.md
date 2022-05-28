@@ -7,15 +7,17 @@ I'm a dynamic technology professional with over 15 years of [experience](https:/
 
 Pokemon:
 
-- Production
+- Production:
   [https://pokemon-cards-henna.vercel.app/](https://pokemon-cards-henna.vercel.app/){:target="\_blank"}
-- Code
+- Code:
   [https://github.com/analistamarcio/pokemon-cards](https://github.com/analistamarcio/pokemon-cards){:target="\_blank"}
 
 
-### GamePlay (mobile - React Native, Expo)
+### React Native, Expo
 
-- Code
+GamePlay:
+
+- Code:
   [https://github.com/analistamarcio/gameplay](https://github.com/analistamarcio/gameplay){:target="\_blank"}
 
 
@@ -23,9 +25,9 @@ Pokemon:
 
 Space Invaders (CS50 Harvard):
 
-- Production
+- Production:
   [https://scratch.mit.edu/projects/381805473/fullscreen/](https://scratch.mit.edu/projects/381805473/fullscreen/){:target="\_blank"}
-- Code
+- Code:
   [https://scratch.mit.edu/projects/381805473/editor/](https://scratch.mit.edu/projects/381805473/editor/){:target="\_blank"}
 
 
@@ -33,7 +35,7 @@ Space Invaders (CS50 Harvard):
 
 W3Schools Space:
 
-- Production
+- Production:
   [https://mferreira.w3spaces.com/](https://mferreira.w3spaces.com/){:target="\_blank"}
 
 
@@ -41,7 +43,7 @@ W3Schools Space:
 
 Library:
 
-- Production
+- Production:
   [https://locallibrary-cpsc2261.herokuapp.com/](https://locallibrary-cpsc2261.herokuapp.com/){:target="\_blank"}
-- Code
+- Code:
   [https://github.com/analistamarcio/express-locallibrary-tutorial](https://github.com/analistamarcio/express-locallibrary-tutorial){:target="\_blank"}
